@@ -77,5 +77,6 @@ Cette organisation m’a aidée à comprendre pourquoi il est important de sépa
 
 ## 9. Bilan de la première semaine
 -Cette première semaine à YouCode m’a permis de découvrir les bases du développement front-end et de comprendre comment HTML et CSS fonctionnent ensemble.
--Grâce au projet Élan Fitness, j’ai pu appliquer les premières notions apprises et découvrir l’organisation d’un projet web simple.
+-Grâce au projet Élan Fitness,
+-j’ai pu appliquer les premières notions apprises et découvrir l’organisation d’un projet web simple.
 -Je suis encore au début de mon apprentissage, mais cette expérience m’a permis de construire une première base en HTML, CSS et Git. Je souhaite continuer à pratiquer pour mieux maîtriser ces notions et découvrir progressivement de nouvelles techniques de développement web.
