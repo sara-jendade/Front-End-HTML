@@ -1,62 +1,81 @@
-# Front-End-HTML
+# Documentation des acquis – Projet Élan Fitness
 
-# Contexte du projet
-- Pour une meilleure présence sur le web. La société Elan Fitness souhaite migrer d'un site one pager à un site multipage.
-- Le product owner de l'entreprise va faire avec vous une réunion afin de vous expliquer le besoin de l'entreprise et valider vos propositions.
-- Pour cela, tant que intégrateur web tu doit apporter les modifications suivantes :
+## 1. Présentation du projet
 
-#  En tant que concepteur
-En tant que concepteur, je vais analyser le site one pager actuel d'Élan Fitness (sections, contenus, objectifs), afin de comprendre ce qui doit être réparti dans des pages distinctes.
-En tant que concepteur, je vais proposer l'organisation du site multipage (liste des pages et contenu de chacune), afin de la présenter au product owner et de la faire valider.
-En tant que concepteur, je vais proposer un logo adapté à Élan Fitness qui respecte la charte graphique (couleurs et typographies), afin de renforcer l'identité visuelle de la salle.
-En tant que concepteur, je vais proposer un contenu adéquat pour chaque page (textes et photos libres de droits), afin de présenter la salle de façon claire et attractive.
+- Durant ma première semaine de formation à YouCode, j’ai commencé à découvrir les bases du développement web à travers le projet Élan Fitness.
+-L’objectif du projet était de transformer un site composé d’une seule page en un site multipage, afin de mieux organiser les informations et de faciliter la navigation entre les différentes pages.
+-Ce projet m’a permis de mettre en pratique mes premières connaissances en HTML et en CSS.
 
-# En tant que développeur
-En tant que développeur, je vais transformer le site one pager en un site de plusieurs pages reliées entre elles, afin d'améliorer la présence d'Élan Fitness sur le web.
-En tant que développeur, je vais créer la page Accueil, afin de présenter la salle et d'inciter le visiteur à découvrir les programmes.
-En tant que développeur, je vais créer la page Programmes pour afficher les cours et les formules proposés, afin que le visiteur choisisse celui qui lui convient.
-En tant que développeur, je vais créer la page À propos pour présenter l'histoire, les valeurs et l'équipe de la salle, afin de mettre le visiteur en confiance.
-En tant que développeur, je vais créer la page Contactez-nous avec un formulaire de message, les coordonnées et le plan d'accès, afin que l'internaute puisse envoyer un message ou un retour d'expérience.
-En tant que développeur, je vais intégrer l'accès à toutes les pages dans le menu, en indiquant la page en cours, afin que la navigation soit simple depuis n'importe quelle page.
-En tant que développeur, je vais appliquer les bonnes pratiques UX/UI (cohérence entre les pages, lisibilité, boutons clairs), afin d'offrir une expérience agréable.
+## 2. Les acquis en HTML
 
-# BONUS
-En tant que développeur, je vais rendre le site adaptable aux ordinateurs, aux tablettes et aux téléphones, afin que tous les visiteurs puissent le consulter confortablement.
-En tant que développeur, je vais implémenter d'autres pages ou fonctionnalités de mon choix, afin d'améliorer l'expérience du visiteur.
-En tant que développeur, je vais appliquer une animation ou une transition CSS, afin d'améliorer l'aspect visuel du site.
-En tant que développeur, je vais apporter au moins 3 améliorations de référencement (SEO), afin que le site soit mieux trouvé sur les moteurs de recherche.
-Modalités pédagogiques
-Vous disposez de 4 jours en autonomie pour réaliser le brief en utilisant les technologies front-end appropriées (HTML, CSS).
+-Pendant cette première semaine, j’ai appris à comprendre la structure d’une page web et le rôle des principales balises HTML.
 
-- Vous trouverez dans le lien vers les assets dans la section ressources.
-- Date limite de soumission : 09/10/2026 à 23h59
-- Aidez-vous les uns les autres.
+* **Structure HTML :** découverte des balises `html`, `head` et `body`.
+* **Titres et paragraphes :** utilisation des balises pour organiser le contenu.
+* **Balises sémantiques :** découverte de `header`, `nav`, `main`, `section` et `footer`.
+* **Liens :** création de liens pour naviguer entre les différentes pages du site.
+* **Images :** intégration d’images dans les pages.
+* **Formulaires :** découverte des champs de saisie, des labels et des boutons.
 
-# Modalités d'évaluation
-Présentation de 15 minutes :
-5 minutes : Démonstration de livrable.
-5 minutes : Explication partie code.
-5 minutes : évaluation des savoirs(Q/A)
+J’ai également appris comment HTML permet de structurer le contenu d’une page et comment les différentes balises sont organisées.
 
-# Livrables
-Un lien vers un repository GitHub contenant :    
-   |__ Le code source du site web en HTML/CSS avec tous les fichiers nécessaires.
-   |__Un lien vers le site web hébergé sur GitHub Pages.
-   |__Un fichier de documentations des acquis
+## 3. Les acquis en CSS
 
-# Critères de performance
-Bonne maitrise et compréhension du code.
-Site qui respecte les normes W3C (https://validator.w3.org/).
-Livrable présentable.
-# Accessibilité 
-Le site doit être accessible à tous. Il doit respecter les normes WCAG pour l'accessibilité.
-Bonne maitrise et compréhension du code implémenté.
-Conformité aux Bonnes Pratiques (Documentation de code/ Balises Sémantiques/ SEO/ etc.…).
-Utilisation de systèmes de contrôle de version Git
-Le site doit être correctement déployé sur un service d'hébergement gratuit.
+J’ai commencé à apprendre comment CSS permet de modifier l’apparence des éléments HTML.
+- Les principales notions abordées sont :
 
-# Le site doit s'adapter parfaitement a tout type d'écrans :
-__Grand Écran d'Ordinateur : À partir de 1280px de large.
-__Petit Écran d'Ordinateur : De 1024px à 1279px de large.
-__Tablette : De 768px à 1023px de large.
-__Mobile : Jusqu'à 767px de large.
+* **Sélecteurs CSS :** sélectionner les éléments HTML pour leur appliquer des styles.
+* **Couleurs et textes :** modifier les couleurs, les polices et la taille du texte.
+* **Marges et espacements :** comprendre l’utilisation de `margin` et `padding`.
+* **Mise en forme :** modifier l’apparence des titres, des paragraphes, des images et des boutons.
+* **Navigation :** découvrir la propriété `position: fixed` pour garder le menu visible pendant le défilement.
+* **Formulaires :** personnaliser les champs de saisie et les boutons.
+
+Cette partie m’a permis de mieux comprendre la relation entre HTML et CSS, ainsi que la différence entre la structure et la présentation d’une page web.
+
+## 4. Organisation des fichiers
+
+J’ai découvert comment organiser les fichiers d’un projet web pour travailler plus facilement.
+-Le projet Élan Fitness contient notamment :
+
+* `index.html` : page d’accueil.
+* `programmes.html` : présentation des programmes et des activités.
+* `a-propos.html` : présentation de la salle de sport.
+* `contact.html` : page de contact.
+* `style.css` : fichier qui contient les styles CSS.
+* `img/` : dossier contenant les images du projet.
+
+Cette organisation m’a aidée à comprendre pourquoi il est important de séparer le contenu HTML de la mise en forme CSS.
+
+## 5. Navigation entre les pages
+
+-L’un des objectifs du projet était de passer d’un site one-page à un site multipage.
+-J’ai appris à créer des liens entre plusieurs fichiers HTML et à utiliser un menu de navigation pour permettre aux visiteurs d’accéder aux différentes pages.
+-J’ai également commencé à comprendre l’importance d’une navigation simple et claire pour faciliter l’utilisation d’un site web.
+
+## 6. Première découverte du SEO
+
+-Au cours de cette semaine, j’ai également découvert les bases du référencement naturel (SEO).
+-J’ai appris que certaines pratiques peuvent aider les moteurs de recherche à mieux comprendre le contenu d’un site, notamment :
+
+* Donner un titre adapté à chaque page.
+* Organiser les titres et les sous-titres.
+* Utiliser les balises HTML de manière logique.
+* Ajouter un texte alternatif aux images avec l’attribut `alt`.
+-Il s’agit d’une première introduction au SEO, que je souhaite approfondir progressivement.
+
+## 7. Découverte de Git et GitHub
+
+-J’ai commencé à découvrir Git et GitHub pour gérer les fichiers du projet et enregistrer les modifications.
+-Cette première expérience m’a permis de comprendre leur utilité dans le développement web et de commencer à pratiquer les commandes de base pour envoyer mon travail sur un dépôt GitHub.
+
+## 8. Difficultés rencontrées
+
+-Comme il s’agissait de ma première semaine, certaines notions étaient encore nouvelles, notamment l’organisation des fichiers HTML, l’utilisation des propriétés CSS et la navigation entre les pages.
+-Pour mieux les comprendre, j’ai testé différentes modifications, observé les résultats dans le navigateur et corrigé certaines erreurs.
+-Ces exercices m’ont permis de pratiquer et de mieux comprendre les notions abordées pendant la formation.
+
+## 9. Bilan de la première semaine
+-Cette première semaine à YouCode m’a permis de découvrir les bases du développement front-end et de comprendre comment HTML et CSS fonctionnent ensemble.
+-Grâce au projet Élan Fitness, j’ai pu appliquer les premières notions apprises et découvrir l’organisation d’un projet web simple.
+-Je suis encore au début de mon apprentissage, mais cette expérience m’a permis de construire une première base en HTML, CSS et Git. Je souhaite continuer à pratiquer pour mieux maîtriser ces notions et découvrir progressivement de nouvelles techniques de développement web.
